@@ -11,7 +11,7 @@ To set up and run this project, follow these steps:
 cd DevOps-Masters-Project
 3.	Configure AWS CLI
 4.	aws configure
-# Follow prompts to enter your AWS Access Key ID, Secret Access Key, Region, and output format.
+
 5.	Install Terraform
 Ensure you have Terraform (v1.3+ recommended) installed on your system. Refer to the official Terraform documentation for installation instructions.
 6.	Configure terraform.tfvars
